@@ -1,0 +1,5 @@
+I increased their random item range to be somewhere from 5-25. 
+I changed the time in which shoppers arrive and made it random from 1-3 minutes.
+I also changed the number of checkers to 2. 
+changing these values ends with 0 people waiting in line, a wait time between 2.5-3.5 minutes, and a total idle time between 100-135 minutes.
+Because I do have some random values, the wait time and idle time will vary but these are the numbers I got when running the code.
